@@ -1,2 +1,2 @@
-# ibfb.github.io
+# aihora.github.io
 inboxpage
